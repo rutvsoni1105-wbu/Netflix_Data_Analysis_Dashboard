@@ -23,6 +23,7 @@ The objective of this project is to analyze Netflix content data and create an i
 * What are the most common content ratings?
 * How does the Movies vs TV Shows distribution compare?
 * What insights can be generated from Netflix content trends?
+* Dashboard Interaction <a href="https://github.com/rutvsoni1105-wbu/Netflix_Data_Analysis_Dashboard/blob/main/dashboard%20img.png">View Dashboard</a>
 
 ---
 
@@ -42,7 +43,8 @@ The objective of this project is to analyze Netflix content data and create an i
 
 ## Dashboard
 
-(Add your dashboard screenshot here)
+<img alt="Netflix Dashboard image" src="https://github.com/rutvsoni1105-wbu/Netflix_Data_Analysis_Dashboard/blob/main/dashboard%20img.png"></img>
+
 
 ---
 
@@ -71,5 +73,4 @@ This Netflix Data Analysis Dashboard provides meaningful insights into Netflix c
 * Pivot Tables
 * Pivot Charts
 * KPI Cards
-* Slicers
 * Data Visualization
